@@ -85,16 +85,11 @@ The dataset was sourced from [Kaggle/real estate listings] and contains the foll
 
 
 📚 Future Enhancements
-Build a Streamlit or Flask web app for predictions
-
-Integrate external APIs for location data
-
-Include more features like property type, furnishing status, etc.
-
-Add map visualizations for spatial trends
+- Build a Streamlit or Flask web app for predictions
+- Integrate external APIs for location data
+- Include more features like property type, furnishing status, etc.
+- Add map visualizations for spatial trends
 
 👨‍💻 Author
-Yash Bagga
+-Yash Bagga
 📧 yashbagga5@gmail.com
-🔗 LinkedIn
-🔗 GitHub
